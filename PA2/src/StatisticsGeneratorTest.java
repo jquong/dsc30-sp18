@@ -1,26 +1,29 @@
-import org.junit.jupiter.api.BeforeAll;
-import org.junit.jupiter.api.Test;
+import org.junit.Before;
+import org.junit.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.Assert.*;
 
-class StatisticsGeneratorTest {
+public class StatisticsGeneratorTest {
 
     private static StatisticsGenerator sg;
+
+    private static double epsilon = 0.0001;
 
     int[] empty = {};
     int[] single = {7};
     int[] twoElements = {3, 4};
     int[] sequential = {0, 1, 2, 3};
     int[] mixed = {-7, 13, 5, 0, 4, 2, -8};
+    int[] blackMirror = {0, 3, 7, -3, 123, 0, 3, 7, -3};
 
-    @BeforeAll
-    static void setup() {
+    @Before
+    public void setup() {
         sg = new StatisticsGenerator();
     }
 
     @Test
-    void min() {
-        assertEquals(Integer.MIN_VALUE, sg.min(empty));
+    public void testMin() {
+        assertEquals("Default minimum value is incorrect", Integer.MIN_VALUE, sg.min(empty));
         assertEquals(7, sg.min(single));
         assertEquals(3, sg.min(twoElements));
         assertEquals(0, sg.min(sequential));
@@ -28,27 +31,22 @@ class StatisticsGeneratorTest {
     }
 
     @Test
-    void secondMax() {
+    public void testSecondMax() {
         //TODO
     }
 
     @Test
-    void mean() {
+    public void testMedian() {
         //TODO
     }
 
     @Test
-    void median() {
+    public void testRearrange() {
         //TODO
     }
 
     @Test
-    void rearrange() {
-        //TODO
-    }
-
-    @Test
-    void brokenMirror() {
+    public void testBrokenMirror() {
         //TODO
     }
 }
