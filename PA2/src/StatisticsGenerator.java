@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class StatisticsGenerator {
 
     public static void main(String[] args) {
