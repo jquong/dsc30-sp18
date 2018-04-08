@@ -1,14 +1,11 @@
 public class SunshineMarket {
-    // Customer
+    // Customer lists
     private static int[] customers1 = {3, 7, 20};
     private static int[] customers2 = {1, 3, 5, 4, 16, 8};
     private static int[] customers3 = {1, 1, 2, 3, 5, 7};
 
     private static QueueADT customersQueue;
     private static QueueADT[] lines;
-
-    //TODO add complexity by making a queue that returns 0 for the next n calls, delayed queue
-    // Use this to have items that take different times, delay between customers
 
     /**
      * This is the program entry where we will run our simulation
