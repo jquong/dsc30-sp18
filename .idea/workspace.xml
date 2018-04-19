@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c47d25d6-e0ba-4c4d-aea0-76d178e77d69" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,29 +50,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StatisticsGeneratorTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="StatisticsGeneratorTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PA1/src/StatisticsGeneratorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="44" column="33" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
+            <state relative-caret-position="349">
+              <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StatisticsGenerator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PA2/src/StatisticsGenerator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -99,11 +90,11 @@
         <option value="$PROJECT_DIR$/test/src/Static_debug.java" />
         <option value="$PROJECT_DIR$/test/src/ImportantErrorFreeBankProgram.java" />
         <option value="$PROJECT_DIR$/PA2/src/CircularArrayQueue.java" />
-        <option value="$PROJECT_DIR$/PA1/src/StatisticsGeneratorTest.java" />
         <option value="$PROJECT_DIR$/PA2/src/StartupTest.java" />
         <option value="$PROJECT_DIR$/PA2/src/StatisticsGeneratorTest.java" />
         <option value="$PROJECT_DIR$/PA2/src/SunshineMarket.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/PA1/src/StatisticsGeneratorTest.java" />
       </list>
     </option>
   </component>
@@ -135,6 +126,29 @@
             <path>
               <item name="dsc30-sp18" type="b2602c69:ProjectViewProjectNode" />
               <item name="dsc30-sp18" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsc30-sp18" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dsc30-sp18" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsc30-sp18" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dsc30-sp18" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsc30-sp18" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dsc30-sp18" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="DI1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsc30-sp18" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dsc30-sp18" type="462c0819:PsiDirectoryNode" />
               <item name="PA1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -152,6 +166,17 @@
               <item name="dsc30-sp18" type="b2602c69:ProjectViewProjectNode" />
               <item name="dsc30-sp18" type="462c0819:PsiDirectoryNode" />
               <item name="PA2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsc30-sp18" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dsc30-sp18" type="462c0819:PsiDirectoryNode" />
+              <item name="PA3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsc30-sp18" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dsc30-sp18" type="462c0819:PsiDirectoryNode" />
+              <item name="PA3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -416,7 +441,14 @@
       <option name="project" value="LOCAL" />
       <updated>1523141559643</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Starter Code for PA2">
+      <created>1524100065723</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1524100065723</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -428,7 +460,7 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5012225" side_tool="true" weight="0.3293979" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5012225" side_tool="true" weight="0.32859176" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4987775" weight="0.3293979" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49633253" weight="0.23140496" />
@@ -542,15 +574,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/src/StaticAdder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PA2/src/Startup.java" />
-    <entry file="file://$PROJECT_DIR$/PA2/src/StartupTest.java" />
     <entry file="file://$PROJECT_DIR$/PA1/src/StatisticsGeneratorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -800,32 +823,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PA2/src/Startup.java" />
     <entry file="file://$PROJECT_DIR$/PA2/src/StartupTest.java" />
-    <entry file="file://$PROJECT_DIR$/PA1/src/StatisticsGeneratorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="44" column="33" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/out/production/DI1/Startup.class" />
-    <entry file="file://$PROJECT_DIR$/PA1/src/StatisticsGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PA2/src/CircularArrayQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="74" selection-start-line="22" selection-start-column="74" selection-end-line="22" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PA2/src/StatisticsGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -848,6 +850,52 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PA3/src/CRISPR.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-654">
+          <folding>
+            <element signature="e#0#3230#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/DI1/CircularArrayQueue.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1882#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PA1/src/StatisticsGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PA2/src/StatisticsGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PA1/src/StatisticsGeneratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
         </state>
       </provider>
     </entry>
