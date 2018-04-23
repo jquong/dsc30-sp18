@@ -62,8 +62,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+            <state relative-caret-position="34">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -93,8 +93,8 @@
         <option value="$PROJECT_DIR$/PA2/src/StartupTest.java" />
         <option value="$PROJECT_DIR$/PA2/src/StatisticsGeneratorTest.java" />
         <option value="$PROJECT_DIR$/PA2/src/SunshineMarket.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/PA1/src/StatisticsGeneratorTest.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -111,65 +111,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="dsc30-sp18" type="b2602c69:ProjectViewProjectNode" />
               <item name="dsc30-sp18" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dsc30-sp18" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dsc30-sp18" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dsc30-sp18" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dsc30-sp18" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dsc30-sp18" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dsc30-sp18" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dsc30-sp18" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dsc30-sp18" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dsc30-sp18" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dsc30-sp18" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="DI1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dsc30-sp18" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dsc30-sp18" type="462c0819:PsiDirectoryNode" />
-              <item name="PA1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dsc30-sp18" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dsc30-sp18" type="462c0819:PsiDirectoryNode" />
-              <item name="PA1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dsc30-sp18" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dsc30-sp18" type="462c0819:PsiDirectoryNode" />
-              <item name="PA2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dsc30-sp18" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dsc30-sp18" type="462c0819:PsiDirectoryNode" />
-              <item name="PA2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dsc30-sp18" type="b2602c69:ProjectViewProjectNode" />
@@ -339,7 +289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1524102003561</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="testing">
+      <created>1524516749871</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1524516749871</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -350,15 +307,15 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5012225" side_tool="true" weight="0.3293979" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5012225" side_tool="true" weight="0.32859176" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4987775" weight="0.3293979" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49633253" weight="0.23140496" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49633253" visible="true" weight="0.23044097" />
       <window_info anchor="bottom" id="Style Checker" order="8" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09255533" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09389672" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -380,12 +337,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4987775" visible="true" weight="0.3293979" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20904645" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49633253" weight="0.23140496" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Style Checker" order="11" />
       <window_info id="UI Designer" order="4" />
@@ -395,7 +352,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5012225" side_tool="true" weight="0.3293979" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49633253" weight="0.23140496" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Capture Tool" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4985591" weight="0.32952693" />
@@ -436,7 +393,8 @@
     <MESSAGE value="added module test for di" />
     <MESSAGE value="made bad code for DI" />
     <MESSAGE value="Starter Code for PA2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Starter Code for PA2" />
+    <MESSAGE value="testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -444,6 +402,13 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PA1/src/StatisticsGeneratorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -728,9 +693,6 @@
         <state relative-caret-position="-654" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/DI1/CircularArrayQueue.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/PA1/src/StatisticsGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -754,8 +716,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
@@ -776,7 +738,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -811,7 +773,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>PA2</last-edited>
+          <last-edited>DI1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
