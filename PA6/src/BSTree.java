@@ -94,7 +94,7 @@ public class BSTree<T> implements IDupTree<T>{
 
 
         /**
-         * HELPER METHODS FOR TESTING. I think we should give this to the students*/
+         * HELPER METHODS FOR TESTING*/
         private boolean subTreeCompare(BSTNode root){
             if(nodeCompare(this, root)){
                 boolean left = true;
@@ -111,7 +111,7 @@ public class BSTree<T> implements IDupTree<T>{
         }
 
         /**
-         * HELPER METHODS FOR TESTING. I think we should give this to the students*/
+         * HELPER METHODS FOR TESTING*/
         private boolean nodeCompare(BSTNode one, BSTNode two){
             if(one == null && two == null){
                 return true;
@@ -211,7 +211,7 @@ public class BSTree<T> implements IDupTree<T>{
 
 
     /**
-     * HELPER METHODS FOR TESTING. I think we should give this to the students*/
+     * HELPER METHODS FOR TESTING. Refer to the writeup and BSTreeTester.java file for info on how to use it*/
     public boolean treeCompare(BSTree<T> other){
         if(root == null && other.root == null){
             return true;
