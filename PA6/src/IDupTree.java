@@ -13,7 +13,7 @@ public interface IDupTree<T> {
      *
      * @param key the value the data will be stored based on
      * @throws NullPointerException if either key or data is null
-     * @return whether or not insertion was successful (if key already exists return false)
+     * @return whether or not insertion was successful (Should always be succesful due to duplicate insertion!)
      */
     boolean insert(Integer key, T data) throws NullPointerException;
 
