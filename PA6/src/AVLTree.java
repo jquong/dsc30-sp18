@@ -186,8 +186,18 @@ public class AVLTree <T> implements IDupTree<T>{
 
                 if(this.leftChild != null)
                     left = this.leftChild.subTreeCompare(root.leftChild);
+                else if(root.leftChild != null)
+                    left = false;
+                else
+                    left = true;
+
                 if(this.rightChild != null)
                     right = this.rightChild.subTreeCompare(root.rightChild);
+                else if(root.rightChild != null)
+                    right = false;
+                else
+                    right = true;
+
                 return (left && right);
             }
 
