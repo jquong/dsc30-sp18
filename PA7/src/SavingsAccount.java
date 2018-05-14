@@ -44,11 +44,11 @@ public class SavingsAccount extends Account {
         //TODO: Implement
 
         //Get the new balance
-        double potentialBalance = 0 /*TODO: Replace this declaration*/;
+        double potentialBalance；// need to set this to proper value
 
         //Reject if withdrawal violates our constraints
         if (potentialBalance < MINIMUM_BALANCE) {
-            double maxPossibleWithdrawal = 0/*TODO: Replace this declaration*/;
+            double maxPossibleWithdrawal； // need to set this to proper value
             String exceptionMSG =
                     "THE MAXIMUM AMOUNT THE USER: (" + id + ") CAN "
                             + "WITHDRAW FROM THEIR SAVINGS ACCOUNT "

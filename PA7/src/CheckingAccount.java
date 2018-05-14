@@ -65,7 +65,19 @@ public class CheckingAccount extends Account {
      *
      */
     public double withdraw(double amount) throws InsufficientFundsException {
+
+        double requiredDeposit; // need to set this to proper value
+        String overdraftRejection = "USER: (" + id + ") CANNOT MAKE A WITHDRAWAL FROM THEIR CHECKING ACCOUNT " +
+                "UNTIL THEY COVER THEIR OVERDRAFT FEE " +
+                "WITH A DEPOSIT OF AT LEAST ($" + requiredDeposit + ")";
+
+        double maxPossibleWithdrawal; // need to set this to proper value
+        String exceptionMSG =
+                "THE MAXIMUM AMOUNT USER: (" + id + ") CAN WITHDRAW FROM THEIR CHECKING ACCOUNT IS " +
+                "($" + maxPossibleWithdrawal + ")";
+
         //TODO: implement
+
         return 0;
     }
 
@@ -85,6 +97,12 @@ public class CheckingAccount extends Account {
      *
      */
     public double withdrawUsingCheck(double amount) throws InsufficientFundsException {
+
+        double requiredDeposit; // need to set this to proper value
+        String overdraftRejection = "USER: (" + id + ") CANNOT MAKE A WITHDRAWAL FROM THEIR CHECKING ACCOUNT " +
+            "UNTIL THEY COVER THEIR OVERDRAFT FEE " +
+            "WITH A DEPOSIT OF AT LEAST ($" + requiredDeposit + ")";
+
         //TODO: implement
         return 0;
     }

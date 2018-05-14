@@ -41,6 +41,7 @@ public class Bank {
      *
      */
     private Account getAccount(String accountID) {
+        String noAccountMessage = " DOES NOT HAVE AN ACCOUNT!"
         //TODO: implement
         return null;
     }
@@ -53,6 +54,7 @@ public class Bank {
      *
      */
     public boolean createCheckingAccout(String accountID, double initialDeposit) {
+        String minimumMessage = "The minimum initial deposit for a checking account was not met!";
         //TODO: implement
         return false;
     }
@@ -65,6 +67,7 @@ public class Bank {
      *
      */
     public boolean createSavingsAccout(String accountID, double initialDeposit) {
+        String minimumMessage = "The minimum initial deposit for a checking account was not met!";
         //TODO: implement
         return false;
     }
@@ -111,6 +114,7 @@ public class Bank {
      *
      */
     public boolean checkTransfer(String fromAccountID, String toAccountID, double amount) {
+        String notCheckingMessage = " IS NOT A CHECKING ACCOUNT!";
         //TODO: implement
         return false;
     }
