@@ -1,0 +1,55 @@
+alice DOES NOT HAVE AN ACCOUNT!
+kyle DOES NOT HAVE AN ACCOUNT!
+don DOES NOT HAVE AN ACCOUNT!
+The minimum initial deposit for a savings account was not met!
+bob DOES NOT HAVE AN ACCOUNT!
+roy DOES NOT HAVE AN ACCOUNT!
+zoe DOES NOT HAVE AN ACCOUNT!
+The minimum initial deposit for a checking account was not met!
+Bob can create duplicate account: false
+Number of accounts: 4
+don DOES NOT HAVE AN ACCOUNT!
+Don wants to deposit to a non-existed account, so the returned double is: null
+Alice wants to deposit $20 to her existed account with balance $100, so the returned double is: 120.0
+Kyle wants to deposit $0 to his existed account with balance $5000 + 250 bonus, so the returned double is: 5250.0
+don DOES NOT HAVE AN ACCOUNT!
+Don wants to withdraw from a non-existed account, so the returned double is: null
+Alice wants to withdraw $10 ($2 extra withdrawal fee of saving account) from her account with balance $120, so the returned double is: 108.0
+THE MAXIMUM AMOUNT THE USER: (alice) CAN WITHDRAW FROM THEIR SAVINGS ACCOUNT IS ($6.0)
+Alice wants to withdraw $10 ($2 extra withdrawal fee of saving account) from her account with balance $108, so the returned double is: null
+Bob wants to withdraw $5 (no extra withdrawal fee of checking account) from his account with balance $10, so the returned double is: 5.0
+THE MAXIMUM AMOUNT USER: (bob) CAN WITHDRAW FROM THEIR CHECKING ACCOUNT IS ($5.0)
+Bob wants to withdraw $6 (no extra withdrawal fee of checking account) from his account with balance $5, which won't be allowed, so the returned double is: null
+ID: kyle, Balance: 248.0
+ID: alice, Balance: 5108.0
+ID: roy, Balance: 90.0
+ID: bob, Balance: 15.0
+don DOES NOT HAVE AN ACCOUNT!
+Don doesn't have account so the returned boolean is: false
+zoe DOES NOT HAVE AN ACCOUNT!
+Zoe doesn't have account so the returned boolean is: false
+THE MAXIMUM AMOUNT USER: (roy) CAN WITHDRAW FROM THEIR CHECKING ACCOUNT IS ($90.0)
+Roy transfers way too much so the returned boolean is:: false
+ID: roy, Balance: 89.0
+ID: bob, Balance: 16.0
+ID: roy, Balance: 88.0
+ID: bob, Balance: 17.0
+ID: roy, Balance: 87.0
+ID: bob, Balance: 18.0
+ID: roy, Balance: 84.0
+ID: bob, Balance: 19.0
+ID: roy, Balance: 134.0
+ID: bob, Balance: -31.0
+USER: (bob) CANNOT MAKE A WITHDRAWAL FROM THEIR CHECKING ACCOUNT UNTIL THEY COVER THEIR OVERDRAFT FEE WITH A DEPOSIT OF AT LEAST ($66.0)
+Bob's balance is now -$31 and he also need to pay $35 overdraft fee, so he can't transfer now: false
+Bob just deposited $70 so he can transfer now: true
+don DOES NOT HAVE AN ACCOUNT!
+Don doesn't have account so the returned boolean is: false
+zoe DOES NOT HAVE AN ACCOUNT!
+Zoe doesn't have account so the returned boolean is: false
+kyle IS NOT A CHECKING ACCOUNT!
+The fromAccount of Kyle is not checking account, so returned boolean is: false
+ID: alice, Balance: 5120.77
+ID: kyle, Balance: 248.62
+ID: roy, Balance: 135.0
+ID: bob, Balance: 3.0
