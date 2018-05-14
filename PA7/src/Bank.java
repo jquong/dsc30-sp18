@@ -87,6 +87,18 @@ public class Bank {
      */
     public Double withdraw(String accountID, double amount) {
         //TODO: implement
+
+        // Example of how to print the message that have been passed to Exception
+        try {
+            // TODO: add proper statement here
+        } catch (InsufficientFundsException e) {
+
+            //When there isn't enough money inform the user whats wrong and return null
+            System.out.println(e.getMessage());
+            return null;
+        }
+
+        //Withdrawal succeeded. Inform user of their updated balance
         return 0.0;
     }
 
