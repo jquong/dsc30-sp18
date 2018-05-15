@@ -29,7 +29,7 @@ public class TransactionSimulator {
         System.out.println("Bob can create duplicate account: " + flag);
 
         // only alice, kyle, bob and roy has successfully create account
-        System.out.println("Number of accounts: " + bank.numberOfAccounts());
+        System.out.println("Number of accounts: " + bank.getNumberOfAccounts());
 
 
         /* Deposit examples */
