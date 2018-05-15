@@ -67,7 +67,7 @@ public class Bank {
      *
      */
     public boolean createSavingsAccout(String accountID, double initialDeposit) {
-        String minimumMessage = "The minimum initial deposit for a checking account was not met!";
+        String minimumMessage = "The minimum initial deposit for a savings account was not met!";
         //TODO: implement
         return false;
     }
