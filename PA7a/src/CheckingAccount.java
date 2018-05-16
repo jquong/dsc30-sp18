@@ -73,7 +73,7 @@ public class CheckingAccount extends Account {
 
         double maxPossibleWithdrawal; // need to set this to proper value
         String exceptionMSG =
-                "THE MAXIMUM AMOUNT USER: (" + id + ") CAN WITHDRAW FROM THEIR CHECKING ACCOUNT IS " +
+                "THE MAXIMUM AMOUNT THE USER: (" + id + ") CAN WITHDRAW FROM THEIR CHECKING ACCOUNT IS " +
                 "($" + maxPossibleWithdrawal + ")";
 
         //TODO: implement

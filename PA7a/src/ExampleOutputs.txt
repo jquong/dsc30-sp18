@@ -18,7 +18,7 @@ Alice wants to withdraw $10 ($2 extra withdrawal fee of saving account) from her
 THE MAXIMUM AMOUNT THE USER: (alice) CAN WITHDRAW FROM THEIR SAVINGS ACCOUNT IS ($6.0)
 Alice wants to withdraw $10 ($2 extra withdrawal fee of saving account) from her account with balance $108, so the returned double is: null
 Bob wants to withdraw $5 (no extra withdrawal fee of checking account) from his account with balance $10, so the returned double is: 5.0
-THE MAXIMUM AMOUNT USER: (bob) CAN WITHDRAW FROM THEIR CHECKING ACCOUNT IS ($5.0)
+THE MAXIMUM AMOUNT THE USER: (bob) CAN WITHDRAW FROM THEIR CHECKING ACCOUNT IS ($5.0)
 Bob wants to withdraw $6 (no extra withdrawal fee of checking account) from his account with balance $5, which won't be allowed, so the returned double is: null
 ID: kyle, Balance: 248.0
 ID: alice, Balance: 5108.0
@@ -28,7 +28,7 @@ don DOES NOT HAVE AN ACCOUNT!
 Don doesn't have account so the returned boolean is: false
 zoe DOES NOT HAVE AN ACCOUNT!
 Zoe doesn't have account so the returned boolean is: false
-THE MAXIMUM AMOUNT USER: (roy) CAN WITHDRAW FROM THEIR CHECKING ACCOUNT IS ($90.0)
+THE MAXIMUM AMOUNT THE USER: (roy) CAN WITHDRAW FROM THEIR CHECKING ACCOUNT IS ($90.0)
 Roy transfers way too much so the returned boolean is:: false
 ID: roy, Balance: 89.0
 ID: bob, Balance: 16.0
