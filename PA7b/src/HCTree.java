@@ -228,8 +228,8 @@ public class HCTree {
 
 
     /**
-     * Encode the whole HCTree. If current node is a leaf node write bit 1 following by its symbol.
-     * Else, write 0 and then recursively write the subHCTree.
+     * Encode the whole HCTree. If current node is a leaf node, write bit 1 followed by its symbol. 
+     * Else, write 0 and then recursively encode the left subHCTree, and then the right subHCTree
      *
      * @param node the given node
      * @param out the given BitOutputStream to be written
@@ -250,8 +250,9 @@ public class HCTree {
 
     }
 
+
     /**
-     * Decode the HCTree. If next bit is 1, construct leaf node using following byte as symbol.
+     * Decode the HCTree. If next bit is 1, construct leaf node using followed byte as symbol.
      * Else, keep decoding until we get two nodes, then we construct the subHCTree, using these
      * two nodes as two children of a new parent node.
      *
