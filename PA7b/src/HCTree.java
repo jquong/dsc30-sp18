@@ -207,7 +207,7 @@ public class HCTree {
     }
 
     /**
-     * Decode the given symbol and return a byte that represents the symbol
+     * Decode the bits from BitInputStream and return a byte that represents the symbol
      *
      * @param in the given BitInputStream to be read
      * @return a byte that represents the symbol
