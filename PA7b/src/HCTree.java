@@ -252,8 +252,8 @@ public class HCTree {
 
     /**
      * Decode the HCTree. If next bit is 1, construct leaf node using following byte as symbol.
-     * Else, keep decoding until we get two leaf node, then we construct the subHCTree, using these
-     * two leaf nodes as two children of a new parent node.
+     * Else, keep decoding until we get two nodes, then we construct the subHCTree, using these
+     * two nodes as two children of a new parent node.
      *
      * @param in the given BitInputStream to be read
      * @return the HCNode with the decoded symbol
