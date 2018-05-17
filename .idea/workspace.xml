@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c47d25d6-e0ba-4c4d-aea0-76d178e77d69" name="Default" comment="Updating .gitignore">
+    <list default="true" id="c47d25d6-e0ba-4c4d-aea0-76d178e77d69" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -14,53 +14,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CircularArrayQueue.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PA2/src/CircularArrayQueue.java">
+      <file leaf-file-name="HCTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PA7b/src/HCTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="74" selection-start-line="22" selection-start-column="74" selection-end-line="22" selection-end-column="74" />
+            <state relative-caret-position="-986">
+              <caret line="188" column="78" selection-start-line="188" selection-start-column="78" selection-end-line="188" selection-end-column="78" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QueueADT.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PA2/src/QueueADT.java">
+      <file leaf-file-name="Uncompress.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PA7b/src/Uncompress.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            <state relative-caret-position="-391">
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SunshineMarket.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PA2/src/SunshineMarket.java">
+      <file leaf-file-name="Compress.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PA7b/src/Compress.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+            <state relative-caret-position="340">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StatisticsGeneratorTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PA1/src/StatisticsGeneratorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RuntimeExplorer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PA4/src/RuntimeExplorer.java">
+      <file leaf-file-name="BitOutputStream.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PA7b/src/BitOutputStream.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
@@ -70,14 +55,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sorts.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PA4/src/Sorts.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="Pair.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PA4/src/Pair.java">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="BitInputStream.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PA7b/src/BitInputStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-136">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -111,9 +97,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="20" />
-    <option name="width" value="1440" />
-    <option name="height" value="810" />
+    <option name="x" value="-15" />
+    <option name="y" value="-15" />
+    <option name="width" value="3873" />
+    <option name="height" value="2093" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -123,9 +110,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,6 +120,11 @@
             <path>
               <item name="dsc30-sp18" type="b2602c69:ProjectViewProjectNode" />
               <item name="dsc30-sp18" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsc30-sp18" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dsc30-sp18" type="462c0819:PsiDirectoryNode" />
               <item name="PA3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -153,6 +142,17 @@
               <item name="dsc30-sp18" type="b2602c69:ProjectViewProjectNode" />
               <item name="dsc30-sp18" type="462c0819:PsiDirectoryNode" />
               <item name="PA4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsc30-sp18" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dsc30-sp18" type="462c0819:PsiDirectoryNode" />
+              <item name="PA7b" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dsc30-sp18" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dsc30-sp18" type="462c0819:PsiDirectoryNode" />
+              <item name="PA7b" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -163,6 +163,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -202,16 +205,45 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA4/LargeNames.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA4/MediumNames.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA4/PA4.iml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA4/PrideAndPredjudice.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA4/SmallNames.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA4/src/MRU.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA4/src/MRUtest.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA4/src/Pair.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA4/src/RuntimeExplorer.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA4/src/Sorts.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA5/Hash Funtions/Hash Functions.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA5/Hash Funtions/Sample hash functions.docx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA5/Samples/Input1.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA5/Samples/Input2.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA5/Samples/Input3.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA5/Samples/Output1.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA5/Samples/Output2.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA5/Samples/Output3.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA5/Samples/long.dict.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA5/Samples/relation.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA5/Samples/tiny.dict.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA5/long.dict.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA5/simple.dict.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA5/src/HashTable.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA5/src/IHashTable.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA6/PA6.iml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA6/src/AVLTree.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA6/src/AVLTreeTester.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA6/src/BSTree.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA6/src/BSTreeTester.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA6/src/IDupTree.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA6/src/RuntimeComparison.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA7a/PA7.iml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA7a/src/Account.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA7a/src/Bank.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA7a/src/CheckingAccount.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA7a/src/ExampleOutputs.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA7a/src/InsufficientFundsException.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA7a/src/SavingsAccount.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA7a/src/TransactionSimulator.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA7b/PA7b.iml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA7b/check1.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA7b/check2.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA7b/check3.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA7b/src/BitInputStream.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA7b/src/BitOutputStream.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA7b/src/Compress.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA7b/src/HCTree.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PA7b/src/Uncompress.java</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Deleted" />
@@ -445,27 +477,33 @@
       <option name="project" value="LOCAL" />
       <updated>1524517141925</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Updating .gitignore">
+      <created>1524517162163</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1524517162163</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5012225" side_tool="true" weight="0.32859176" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5036888" side_tool="true" visible="true" weight="0.23044097" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4987775" weight="0.3293979" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49633253" visible="true" weight="0.23044097" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4963112" visible="true" weight="0.23044097" />
       <window_info anchor="bottom" id="Style Checker" order="8" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09389672" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17572099" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -487,12 +525,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4987775" visible="true" weight="0.3293979" />
       <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20904645" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49633253" weight="0.23140496" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Style Checker" order="11" />
       <window_info id="UI Designer" order="4" />
@@ -502,7 +540,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5012225" side_tool="true" weight="0.3293979" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49633253" weight="0.23140496" />
       <window_info id="Capture Tool" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4985591" weight="0.32952693" />
@@ -544,7 +582,8 @@
     <MESSAGE value="made bad code for DI" />
     <MESSAGE value="Starter Code for PA2" />
     <MESSAGE value="testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="testing" />
+    <MESSAGE value="Updating .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating .gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -552,34 +591,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PA1/src/StatisticsGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PA2/src/CircularArrayQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="74" selection-start-line="22" selection-start-column="74" selection-end-line="22" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PA2/src/StatisticsGeneratorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="3" column="3" selection-start-line="3" selection-end-line="3" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PA2/src/StatisticsGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PA2/src/QueueADTTest.java" />
     <entry file="file://$PROJECT_DIR$/PA2/src/QueueADT.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -843,6 +854,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/PA4/src/RuntimeExplorer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -852,16 +873,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PA4/src/Sorts.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PA4/src/Pair.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/PA7b/src/BitOutputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PA7b/src/BitInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PA7b/src/HCTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-986">
+          <caret line="188" column="78" selection-start-line="188" selection-start-column="78" selection-end-line="188" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PA7b/src/Compress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PA7b/src/Uncompress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-391">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="23" />
         </state>
       </provider>
     </entry>
