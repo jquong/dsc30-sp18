@@ -18,10 +18,10 @@ public class MyPriorityQueue<T extends Comparable<? super T>> {
     }
 
     /**
-     * Retrieves the head of this Priority Queue (smallest element), or null if
+     * Retrieves the head of this Priority Queue (largest element), or null if
      * the queue is empty.
      *
-     * @return The head of the queue (smallest element), or null if queue is
+     * @return The head of the queue (largest element), or null if queue is
      * empty.
      */
     public T poll() {

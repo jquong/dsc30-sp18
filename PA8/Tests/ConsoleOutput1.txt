@@ -1,19 +1,19 @@
 ####START COURSE SCHEDULING####
 
-Waitlisting Marina(A65545) to Course DSC30 with coins 20
-Waitlisting Don(A76548) to Course DSC20 with coins 45
-Waitlisting Walker(A11111) to Course DSC30 with coins 40
-Waitlisting Krushi(A55555) to Course DSC20 with coins 40
-Waitlisting Xindong(A12345) to Course DSC30 with coins 15
+Waitlisting Marina(A65545) to Course DSC30 with 20 coins
+Waitlisting Don(A76548) to Course DSC20 with 45 coins
+Waitlisting Walker(A11111) to Course DSC30 with 40 coins
+Waitlisting Krushi(A55555) to Course DSC20 with 40 coins
+Waitlisting Xindong(A12345) to Course DSC30 with 15 coins
 
 ####STARTING BATCH ENROLLMENT####
-Enrolling Don(A76548) to Course DSC20 with coins 45
-Enrolling Walker(A11111) to Course DSC30 with coins 40
-Enrolling Krushi(A55555) to Course DSC20 with coins 40
-Enrolling Marina(A65545) to Course DSC30 with coins 20
+Enrolling Don(A76548) to Course DSC20 with 45 coins
+Enrolling Walker(A11111) to Course DSC30 with 40 coins
+Enrolling Krushi(A55555) to Course DSC20 with 40 coins
+Enrolling Marina(A65545) to Course DSC30 with 20 coins
 ####ENDING BATCH ENROLLMENT####
 
-Waitlisting Xindong(A12345) to Course DSC40A with coins 10
+Waitlisting Xindong(A12345) to Course DSC40A with 10 coins
 
 ####END COURSE SCHEDULING####
 
