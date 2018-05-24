@@ -26,8 +26,8 @@ Waitlisting Jenny(A67460) to Course DSC20 with 15 coins
 Enrolling Don(A76548) to Course DSC20 with 15 coins
 Enrolling Krushi(A55555) to Course DSC40B with 20 coins
 Enrolling Jenny(A67460) to Course DSC20 with 15 coins
-DSC40Bhas already reached maximum capacity. There are no more seats left
-DSC40Bhas already reached maximum capacity. There are no more seats left
+DSC40B has already reached maximum capacity. There are no more seats left
+DSC40B has already reached maximum capacity. There are no more seats left
 ####ENDING BATCH ENROLLMENT####
 
 Insufficient course coins. Cannot waitlist Krushi(A55555) to DSC30
@@ -35,8 +35,8 @@ Waitlisting Krushi(A55555) to Course DSC40A with 15 coins
 
 ####STARTING BATCH ENROLLMENT####
 Enrolling Krushi(A55555) to Course DSC40A with 15 coins
-DSC40Bhas already reached maximum capacity. There are no more seats left
-DSC40Bhas already reached maximum capacity. There are no more seats left
+DSC40B has already reached maximum capacity. There are no more seats left
+DSC40B has already reached maximum capacity. There are no more seats left
 ####ENDING BATCH ENROLLMENT####
 
 Waitlisting Xindong(A12345) to Course DSC30 with 20 coins
