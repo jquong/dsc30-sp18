@@ -33,6 +33,7 @@ Portland,SaltLakeCity,100
 SanFrancisco,SaltLakeCity,100
 SanFrancisco,LosAngeles,100
 LosAngeles,Phoenix,100
+LosAngeles,LasVegas,100
 SaltLakeCity,Denver,100
 SaltLakeCity,LasVegas,100
 Denver,SantaFe,100

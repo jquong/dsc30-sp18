@@ -28,7 +28,6 @@ SantaFe,300,360
 Atlanta,640,360
 Charleston,700,380
 LosAngeles,111,395
-SanDiego,120,430
 Phoenix,220,390
 ElPaso,300,425
 Dallas,440,415
